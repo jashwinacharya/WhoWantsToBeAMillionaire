@@ -13,7 +13,7 @@ void Question::Question1()
 	cout << " 1. Who is the CEO of Berkshire Hathaway?" << endl;
 	cout << "    A. Mark Zuckerberg" << endl;
 	cout << "    B. Paul Allen" << endl;
-	cout << "    C. Warner Buffet" << endl;
+	cout << "    C. Warren Buffett" << endl;
 	cout << "    D. Bill Gates" << endl << endl;
 
 	CorrectAnswer = 'C';      ///Store the correct answer in a temporary variable
